@@ -38,20 +38,6 @@ WORKSHEET_NAME=your-worksheet-name-here
 API_SECRET=your-secret-token-here
 ```
 
-### Example Config
-
-Create a file in project root called `paths.json`.
-
-`worksheetName` is optional. If not provided the value is `Sheet1`.
-
-```json
-{
-    "libraryName": "/Shared Documents",
-    "filePath": "/folder/file.xlsx",
-    "worksheetName": "Sheet1"
-}
-```
-
 ## Run
 
 ```bash
