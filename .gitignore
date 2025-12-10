@@ -1,0 +1,7 @@
+vendor/
+*.lock
+.env
+
+paths.json
+
+.vscode/
